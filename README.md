@@ -45,5 +45,5 @@ In recent years, people worldwide have been suffering from various types of kidn
 
 ![newplot (4)](https://user-images.githubusercontent.com/96882935/227002113-3d34e4c9-45d1-4d55-ac05-050426ad64e6.png)
 
-## Summary of Results¶
+## Summary of Results
 We have successfully built the Flight Price Prediction Machine Learning Model to predict and classify patience as having chronic kidney disease (ckd) or not. The stop three model we should use are Random Forest Classifier, Cat Boostm, and Gradient Boosting Classifier.
