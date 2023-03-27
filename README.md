@@ -28,13 +28,14 @@ In recent years, people worldwide have been suffering from various types of kidn
 ![download-1](https://user-images.githubusercontent.com/96882935/227001408-3185a485-6328-4542-a67d-710c049355f0.png)
 
 
-
 ![newplot (2)](https://user-images.githubusercontent.com/96882935/227001528-40ffce2d-1f0c-4d38-bb57-7991fb34a6a2.png)
-
 
 
 ![newplot (3)](https://user-images.githubusercontent.com/96882935/227001592-a57bf44a-46f0-4a47-8d6f-4acbd5ec5b16.png)
 
+![newplot (5)](https://user-images.githubusercontent.com/128668596/228057912-b3537c0a-5b9e-4b25-88bf-d5a9639df46f.png)
+
+![newplot (5)](https://user-images.githubusercontent.com/128668596/228057937-165ee3a1-ad7e-4aa7-a2c5-ab6a037159a7.png)
 
 ## Model Building
 <img width="630" alt="Screenshot 2023-03-22 at 1 26 23 PM" src="https://user-images.githubusercontent.com/96882935/227002024-72adb4be-a6b6-4ba1-8a74-7e7b6a6e41a8.png">
